@@ -1,0 +1,17 @@
+{
+  "name": "geolocation-ita",
+  "version": "1.0.0",
+  "description": "The script to generate the geolocation data of Italy",
+  "main": "dist/main.js",
+  "scripts": {
+    "transpile": "tsc -p src",
+    "start": "node dist/main",
+    "serve": "npm run transpile && npm run start"
+  },
+  "author": "Eugenio Vinicio Berretta <euberdeveloper@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^13.9.8",
+    "typescript": "^3.8.3"
+  }
+}
