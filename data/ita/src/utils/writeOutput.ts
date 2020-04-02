@@ -8,7 +8,7 @@ export function writeOutput(path: string, localities: Locality[]): void {
         locality.cap,
         locality.latitudine,
         locality.longitudine,
-        `${locality.regione}:${locality.provincia}:${locality.comuni.join('|')}`
+        `${locality.regione}::${locality.provincia}::${locality.comuni.join('||')}`
     ]);
 
     const text = [header, ...rows]
