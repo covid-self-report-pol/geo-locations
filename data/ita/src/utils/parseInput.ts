@@ -17,7 +17,7 @@ export function parseInput(input: string): Locality[] {
             comuni: [row[2]],
             provincia: row[5],
             regione: fixRegione(row[3]),
-            latitudine: row[7],
-            longitudine: row[8]
+            latitudine: row[row.length === 10 ? 7 : 9],
+            longitudine: row[row.length === 10 ? 8 : 10]
         }));
 }
