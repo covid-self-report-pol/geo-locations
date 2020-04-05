@@ -48,3 +48,4 @@ Location should be kept to the city selected for the location or can be set to t
 | Switzerland | [Official postal_codes in WGS84](https://www.cadastre.ch/en/services/service/registry/plz.html) | Python / Jupyter |
 | Mexico | [Geonames.org MX](http://download.geonames.org/export/zip/MX.zip) | Python / Jupyter |
 | India | [Geonames.org IN](http://download.geonames.org/export/zip/IN.zip) | Python / Jupyter |
+| Poland | [Geonames.org IN](http://download.geonames.org/export/zip/PL.zip) | Python / Jupyter |
