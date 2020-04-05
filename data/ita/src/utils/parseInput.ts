@@ -9,7 +9,6 @@ export function parseInput(input: string): Locality[] {
         .split('\n')
         .map(row => row
             .split('\t')
-            .filter(word => !!word)
         )
         .map(row => ({
             nazione: 'ITA',
@@ -17,7 +16,7 @@ export function parseInput(input: string): Locality[] {
             comuni: [row[2]],
             provincia: row[5],
             regione: fixRegione(row[3]),
-            latitudine: row[7],
-            longitudine: row[8]
+            latitudine: row[9],
+            longitudine: row[10]
         }));
 }

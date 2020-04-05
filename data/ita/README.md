@@ -9,7 +9,7 @@ This folder contains a **NodeJS** script, made with **Typescript** to merge thes
 To run the script:
 * Install **node.js**
 * Go to this folder
-* From [geonames.org](https://download.geonames.org/export/zip/) download the italian txt file and name it as `input.txt`
+* From [geonames.org](https://download.geonames.org/export/zip/) download the italian txt file and name it as `raw_input.txt`
 * Execute `npm i` to install the dependencies
 * Execute `npm run transpile` to transpile typescript in javascript
 * Execute `npm start` to generate the csv file
