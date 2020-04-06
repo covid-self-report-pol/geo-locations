@@ -1,0 +1,74 @@
+country_code,postal_code,latitude,longitude,region_id
+MLT,ATD,35.8917,14.4319,Attard
+MLT,BBG,35.8222,14.5228,Birżebbuġa
+MLT,BKR,35.8972,14.4653,Birkirkara
+MLT,BML,35.8806,14.5217,Bormla
+MLT,BRG,35.8861,14.5242,Il-Birgu::Birgu
+MLT,BZN,35.8972,14.4528,Balzan
+MLT,DGL,35.8597,14.3833,Dingli
+MLT,FGR,35.8728,14.5203,Il-Fgura::Fgura
+MLT,FNT,36.0375,14.2361,Il-Fontana::Fontana
+MLT,FRN,35.8917,14.5042,Il-Furjana::Floriana
+MLT,GDJ,35.8514,14.5033,Il-Gudja::Gudja
+MLT,GHR,35.9236,14.455,Ħal Għargħur::Għargħur
+MLT,GRB,36.0681,14.2014,L-Għarb::Għarb
+MLT,GSM,36.0267,14.2861,Għajnsielem
+MLT,GSR,36.0653,14.2217,L-Għasri::Għasri
+MLT,GXQ,35.8458,14.5167,Ħal Għaxaq::Għaxaq
+MLT,GZR,35.9056,14.4928,Il-Gżira::Gżira
+MLT,HMR,35.8869,14.4883,Il-Ħamrun::Ħamrun
+MLT,IKL,35.9097,14.4556,L-Iklin::Iklin
+MLT,ISL,35.8878,14.5169,L-Isla::Isla
+MLT,KCM,36.0439,14.2161,Ta’ Kerċem::Kerċem
+MLT,KKP,35.8442,14.4842,Kirkop
+MLT,KKR,35.8911,14.5328,Il-Kalkara::Kalkara
+MLT,KMN,36.0267,14.2861,Għajnsielem::Kemmuna
+MLT,LJA,35.9014,14.4422,Lija
+MLT,LQA,35.8597,14.4833,Luqa
+MLT,MDN,35.8872,14.4053,L-Imdina::Mdina
+MLT,MFN,36.0667,14.2444,Iż-Żebbuġ::Marsalforn
+MLT,MGR,35.9194,14.3639,L-Imġarr::Mġarr
+MLT,MLH,35.9583,14.3514,Il-Mellieħa::Mellieħa
+MLT,MQB,35.845,14.4675,L-Imqabba::Mqabba
+MLT,MRS,35.8764,14.4922,Il-Marsa::Marsa
+MLT,MSD,35.8986,14.4839,L-Imsida::Msida
+MLT,MSK,35.8606,14.5592,Marsaskala
+MLT,MST,35.9125,14.4208,Il-Mosta::Mosta
+MLT,MTF,35.8906,14.3972,L-Imtarfa::Mtarfa
+MLT,MTP,35.8764,14.4922,Il-Marsa::MaltaPost
+MLT,MXK,35.8417,14.5514,Marsaxlokk
+MLT,MXR,36.0292,14.2256,Il-Munxar::Munxar
+MLT,NDR,36.0486,14.2944,In-Nadur::Nadur
+MLT,NXR,35.9333,14.4375,In-Naxxar::Naxxar
+MLT,PBK,35.9306,14.4764,Pembroke
+MLT,PLA,35.8736,14.5061,Paola
+MLT,PTA,35.8925,14.4939,Tal-Pietà::Pietà
+MLT,QLA,36.0375,14.3167,Il-Qala::Qala
+MLT,QRD,35.8319,14.4514,Il-Qrendi::Qrendi
+MLT,QRM,35.8792,14.4667,Qormi
+MLT,RBT,35.8826,14.3978,Ir-Rabat::Rabat
+MLT,SCM,35.8911,14.5328,Il-Kalkara::Smart City
+MLT,SFI,35.8347,14.4917,Safi
+MLT,SGN,35.9089,14.475,Saint John::San Ġwann
+MLT,SGW,35.8486,14.4264,Is-Siġġiewi::Siġġiewi
+MLT,SLC,35.8617,14.5064,Saint Lucia::Santa Luċija
+MLT,SLM,35.9125,14.5022,Tas-Sliema::Sliema
+MLT,SLZ,36.0486,14.1978,Saint Lawrence::San Lawrenz
+MLT,SNT,36.0231,14.2514,Sannat
+MLT,SPB,35.9375,14.3986,Saint Paul’s Bay::Saint Paul's Bay
+MLT,STJ,35.9172,14.4894,Saint Julian's::Saint Julians
+MLT,SVR,35.8903,14.4778,Saint Venera::Santa Venera
+MLT,SWQ,35.9217,14.4694,Is-Swieqi::Swieqi
+MLT,TXN,35.8667,14.5131,Tarxien
+MLT,VCT,36.0453,14.2417,Victoria
+MLT,VLT,35.8983,14.5125,Il-Belt Valletta::Valletta
+MLT,XBX,35.8994,14.4961,Ta’ Xbiex::Ta' Xbiex
+MLT,XJR,35.8847,14.5486,Ix-Xgħajra::Xgħajra
+MLT,XLN,36.0292,14.2256,Il-Munxar::Xlendi
+MLT,XRA,36.0542,14.2667,Ix-Xagħra::Xagħra
+MLT,XWK,36.0333,14.2611,Ix-Xewkija::Xewkija
+MLT,ZBB,36.0667,14.2444,Iż-Żebbuġ::Żebbuġ
+MLT,ZBG,35.8736,14.4361,Ħaż-Żebbuġ::Żebbuġ
+MLT,ZBR,35.875,14.5417,Ħaż-Żabbar::Żabbar
+MLT,ZRQ,35.8222,14.4833,Iż-Żurrieq::Żurrieq
+MLT,ZTN,35.8578,14.5333,Iż-Żejtun::Żejtun
